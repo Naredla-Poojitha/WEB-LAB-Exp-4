@@ -1,0 +1,79 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+    color: DarkGreen;
+}
+
+.main {
+    width: 100%;
+    height: 100%;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+}
+
+.r1 {
+    height: 20%;
+    background-color: SeaGreen;
+    color: White;
+}
+
+.r2 {
+    height: 20%;
+    background-color: MediumSeaGreen;
+    color: White;
+}
+
+.r3 {
+    height: 60%;
+    background-color: HoneyDew;
+    color: DarkGreen;
+}
+
+.logo {
+    width: 30%;
+}
+
+.header {
+    width: 70%;
+}
+
+.menu {
+    width: 20%;
+    color: White;
+}
+
+.services {
+    width: 30%;
+    background-color: TeaGreen;
+    color: DarkGreen;
+}
+
+.content {
+    width: 70%;
+    background-color: White;
+    color: DarkGreen;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border: 0px;
+}
+
+a {
+    color: DarkGreen;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: SeaGreen;
+}
